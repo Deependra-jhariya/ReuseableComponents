@@ -1,0 +1,18 @@
+export const AppColors = {
+  AppColor: '#FF6160',
+  BlackColor: '#212121',
+  WhiteColor: '#FFFFFF',
+  lightWhiteColor: '#F5F5F5',
+  redColor: '#ff0000',
+  blueColor: '#2A87D1',
+  purple: '#B5A0E8',
+  Oliveblue: '#B5A0E8',
+  greenColor: '#00FF00',
+  grayColor: '#DBDBDB',
+  BGgrayColor: '#F8F8F8',
+  lightgrayColor: '#D3D3D3',
+  extraGrayColor: '#314358',
+  darkGray: '#A9A9A9',
+  Canary_Yellow: '#FFFF8F',
+  Yellow: '#F5A522',
+};
